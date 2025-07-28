@@ -8,14 +8,23 @@
 
 
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
-- **Programming Languages:** C, Python  
-- **Web Development:** HTML, CSS  
-- **Machine Learning:** Model building, data preprocessing, basic algorithm implementation  
-- **Graphic Design:** Adobe Photoshop, Illustrator, Canva (Certified Designer)
+**Programming Languages:**  
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
----
+**Web Development:**  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+**Machine Learning & Data Science:**  
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-2C5BB4?style=for-the-badge&logo=matplotlib&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" />
+
+**Database Management:**  
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Graphic Design:**  
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> *(Certified Designer)*
+
 
 ## <img src="https://img.icons8.com/color/48/000000/brain.png" width="24px"/> Problem Solving Focus
 
